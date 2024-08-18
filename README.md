@@ -5,7 +5,10 @@
 - 💞️ I’m looking to collaborate on projects that involve data analysis, machine learning model development, and AI application. Whether it’s creating predictive models, optimizing data pipelines, or building intelligent web applications, I’m eager to contribute and learn.
 - 📫 How to reach me: You can connect with me via LinkedIn jouini-wajih or email me at jouiniwajih2001@gmail.com. I’m always open to discussing new opportunities and potential collaborations in the realms of data science and AI.
 
-<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Gif" style="display:block; margin:auto; width:400px;">
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Gif" width="400">
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jouini-wajih&label=Profile%20views&color=0e75b6&style=flat" alt="jouini-wajih" /> </p>
