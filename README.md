@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wajih Jouini</h1>
 <h3 align="center">I’m passionate about data science, artificial intelligence, and web development.</h3>
+
 - I thrive on leveraging data to uncover insights and developing AI-driven solutions that can make an impact.
 - 🌱 I’m currently diving deep into machine learning algorithms, natural language processing, and advanced data visualization techniques. I'm also exploring the latest advancements in AI to apply them to real-world problems.
 - 💞️ I’m looking to collaborate on projects that involve data analysis, machine learning model development, and AI application. Whether it’s creating predictive models, optimizing data pipelines, or building intelligent web applications, I’m eager to contribute and learn.
-- 📫 How to reach me: You can connect with me via LinkedIn jouini-wajih or email me at jouiniwajih2001@gmail.com. I’m always open to discussing new opportunities and potential collaborations in the realms of data science and AI.
+- 📫 How to reach me: You can connect with me via LinkedIn [jouini-wajih](https://www.linkedin.com/in/jouini-wajih) or email me at jouiniwajih2001@gmail.com. I’m always open to discussing new opportunities and potential collaborations in the realms of data science and AI.
+
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Gif" width="400">
